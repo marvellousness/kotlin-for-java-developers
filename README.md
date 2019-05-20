@@ -1,2 +1,2 @@
-# kotlin-for-java-developers
+# kotlin for java developers
 The Kotlin for Java Developers course
