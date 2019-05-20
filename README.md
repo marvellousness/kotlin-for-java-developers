@@ -7,6 +7,6 @@ Repository for code examples used in the course https://www.coursera.org/learn/k
 
 2. [Practices](https://github.com/marvellousness/kotlin-for-java-developers/wiki/Practices)
 
-3. Interview Questions
+3. Questions
 
 4. References
